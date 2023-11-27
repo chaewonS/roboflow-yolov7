@@ -2,8 +2,8 @@
 
 ![Untitled (38)](https://github.com/chaewonS/roboflow-yolov7/assets/81732426/8fe9d046-d57e-42a1-96e7-4cfce94574cd)
 
-- yolov7 다운로드
-``` git clone https://github.com/WongKinYiu/yolov7.git ```  
+- yolov7 다운로드  
+``` git clone https://github.com/WongKinYiu/yolov7.git ```    
 ``` pip install -r requirements.txt ```
 - yaml 파일 설정 (yolov7/data/)
     - coco.yaml
